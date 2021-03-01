@@ -9,9 +9,9 @@ Oracle SQL Server. It can be used as a dependency in any other Management based 
 </p>
 
 # Features
-* Destop Based Application made used in JAVA language.
-* Database can be maintained using Oracle SQL.
-* Sign Up and Login features for new Employees.
+* Destop Based Application made in JAVA language.
+* Database can be maintained using Oracle SQL Server.
+* Sign Up and Login features for new and existing Employees.
 * Employee can Login either as Cashier or as Admin.
 * Customer's menu is present for ordering food.
 * New Employee, New Product can be added (Only Admin Feature).
